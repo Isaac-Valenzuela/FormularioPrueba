@@ -1,0 +1,7 @@
+{
+  "name": "FormularioPrueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
